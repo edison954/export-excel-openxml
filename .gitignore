@@ -1,0 +1,8 @@
+﻿/.vs
+*.csproj.user
+/ExcelServiceEPPlusCore/bin/Debug/netcoreapp2.1
+/ExcelServiceEPPlusCore/obj
+/ExcelServiceEPPlusCore/.vs/ExcelServiceEPPlusCore/v16/Server/sqlite3
+/ExcelServiceOpenXml/.vs/ExcelServiceOpenXml/v16/Server/sqlite3
+/ExcelServiceOpenXml/bin/Debug/netcoreapp2.1
+/ExcelServiceOpenXml/obj
